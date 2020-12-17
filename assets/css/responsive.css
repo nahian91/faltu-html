@@ -1,0 +1,131 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+ .mainmenu li a {
+	padding:14px;
+	font-size: 14px;
+}  
+.slide-content h3 {
+	font-size: 45px;
+}
+.scroll-top {
+	top: -20px;
+	width: 40px;
+	height: 40px;
+	line-height: 50px;
+}
+
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ .advertise::after {
+    display:none;
+}
+ .advertise::before {
+    width:100%;
+}
+.scroll-top {
+    right: 70px;
+    top: -22px;
+    width: 40px;
+    height: 40px;
+    line-height: 45px;
+}
+.mainmenu ul {
+    margin-left: 15px;
+    margin-top: 7px;
+}
+.mainmenu li a {
+    font-size: 14px;
+    padding: 9px;
+}
+.skills-area:after {
+    display:none
+}
+
+
+}
+@media only screen and (max-width: 991px) {
+.advertise::after {
+    display:none;
+}
+ .advertise::before {
+    width:100%;
+}
+.scroll-top {
+    right: 70px;
+    top: -22px;
+    width: 40px;
+    height: 40px;
+    line-height: 45px;
+}
+.mainmenu ul {
+    margin-left: 15px;
+    margin-top: 7px;
+}
+.mainmenu li a {
+	font-size: 12px;
+	padding: 5px;
+}
+.skills-area:after {
+    display:none
+}
+.team-slide .owl-nav div {
+	left: -20px;
+}
+.team-slide .owl-nav div.owl-next {
+	right: -20px;
+}
+.mainmenu li a:after {
+	bottom:0
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {  
+.team-slide .owl-nav div {
+	left: 0px;
+}
+.team-slide .owl-nav div.owl-next {
+	right: 0px;
+}
+.about-right::after {
+	display:none
+}
+.about-right::before {
+	display:none
+}
+#services.section-padding {
+	padding-top: 0px;
+}
+.single-counter {
+	text-align: center;
+	margin-bottom: 40px;
+}
+.rec {
+	display: none;
+}
+footer::before {
+	display:none
+}
+footer::after {
+	display:none
+}
+.header-area {
+	z-index: 10;
+	text-align: center;
+	background-color: #555;
+}
+.mainmenu li a:after {
+	bottom:0
+}
+.slider-images .owl-nav div.owl-next {
+	display:none !important
+}
+.slider-images .owl-nav div.owl-prev {
+	display:none !important
+}
+
+
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+}

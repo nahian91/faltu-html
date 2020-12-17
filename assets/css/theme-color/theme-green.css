@@ -1,0 +1,50 @@
+.Placeholder__avatar,
+.section-title h3:before, .section-title h3::after, .border-btn::after, header.sticky, .single-service:hover i.fa, .single-service h3:before, .single-service h3::after, .skill-bar, .single-advertise i.fa, .rec, .portfolio-hover, .price, .contact-form input[type="submit"], .single-contact i.fa, .scroll-top, .call-to-action::before, .watch-video::before{
+  background-color: #27ae60;
+}
+.section-title h3 span, .border-btn, .slider-images .owl-nav div, .single-service i.fa, .post_meta a, .single-testimonial i.fa  {
+  color: #27ae60;
+}
+.border-btn, .boxed-btn, .about-right:before, .about-right:after, .single-testimonial i.fa, .single-testimonial i.fa {
+	border: 1px solid #27ae60;
+}
+.mainmenu li a:after {
+  border-bottom: 5px solid #27ae60;
+}
+.single-about:before, .single-service::after, .single-team::after {
+  border-left: 5px solid #27ae60;
+  border-top: 5px solid #27ae60;
+}
+.single-service::before,  .single-team::before {
+	border-bottom: 3px solid #27ae60;
+	border-right: 3px solid #27ae60;
+}
+.single-service i.fa {
+	border:1px solid #27ae60
+}
+.advertise::before {
+	border-right:5px solid #27ae60
+}
+.advertise::after {
+	border-left:5px solid #27ae60
+}
+.team-slide .owl-nav div:hover {
+    background: #27ae60 none repeat scroll 0 0;
+    box-shadow: 0 0 3px #27ae60;
+}
+.price p:after {
+  border-bottom: 10px solid #27ae60;
+  border-right: 10px solid #27ae60;
+}
+.single-testimonial {
+  box-shadow: 0 5px 30px -5px #27ae60;
+  border-bottom: 7px solid #27ae60;
+}
+.testimonial-list .owl-dots .active {
+	background: #27ae60;
+	border-color:#27ae60
+}
+.team-slide .owl-nav div {
+  box-shadow: 0 0 3px #27ae60;
+  color: #27ae60;
+}
